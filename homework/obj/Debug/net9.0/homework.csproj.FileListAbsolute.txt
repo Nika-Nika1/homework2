@@ -1,0 +1,15 @@
+C:\Users\nikol\RiderProjects\homework2\homework\bin\Debug\net9.0\homework.exe
+C:\Users\nikol\RiderProjects\homework2\homework\bin\Debug\net9.0\homework.deps.json
+C:\Users\nikol\RiderProjects\homework2\homework\bin\Debug\net9.0\homework.runtimeconfig.json
+C:\Users\nikol\RiderProjects\homework2\homework\bin\Debug\net9.0\homework.dll
+C:\Users\nikol\RiderProjects\homework2\homework\bin\Debug\net9.0\homework.pdb
+C:\Users\nikol\RiderProjects\homework2\homework\obj\Debug\net9.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\RiderProjects\homework2\homework\obj\Debug\net9.0\homework.AssemblyInfoInputs.cache
+C:\Users\nikol\RiderProjects\homework2\homework\obj\Debug\net9.0\homework.AssemblyInfo.cs
+C:\Users\nikol\RiderProjects\homework2\homework\obj\Debug\net9.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\nikol\RiderProjects\homework2\homework\obj\Debug\net9.0\homework.sourcelink.json
+C:\Users\nikol\RiderProjects\homework2\homework\obj\Debug\net9.0\homework.dll
+C:\Users\nikol\RiderProjects\homework2\homework\obj\Debug\net9.0\refint\homework.dll
+C:\Users\nikol\RiderProjects\homework2\homework\obj\Debug\net9.0\homework.pdb
+C:\Users\nikol\RiderProjects\homework2\homework\obj\Debug\net9.0\homework.genruntimeconfig.cache
+C:\Users\nikol\RiderProjects\homework2\homework\obj\Debug\net9.0\ref\homework.dll
